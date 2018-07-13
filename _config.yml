@@ -131,8 +131,8 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
-# Facebook App ID
-# fb_app_id: ""
+ #Facebook App ID
+fb_app_id: " https://www.facebook.com/profile.php?id=100005161568912"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
