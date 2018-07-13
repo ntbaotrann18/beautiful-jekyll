@@ -23,11 +23,16 @@ description: Try your best nothing is impossible!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  About Me: "I'm Tran"
+  #Resources:
+    #- Beautiful Jekyll: "https://www.facebook.com/profile.php?id=100005161568912"
+    #- Learn markdown: "http://www.markdowntutorial.com/"
+    #- GitHub Pages: "https://pages.github.com/"
+  #Author's home: "http://deanattali.com"
+  Contact:
+    - Facebook: "https://www.facebook.com/profile.php?id=100005161568912"
+    #- Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://ntbaotrann18/"
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
